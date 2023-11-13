@@ -3,25 +3,18 @@
 ![Github license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
 ## Description
-
+This Social Network API uses MongoDB so that it can handle transfer of data. Users will be able to add/delete friends, post thoughts, react to posts, and find users. 
 
 ## Table of Contents
-* [Usage](#usage)
 * [Contact-Me](#contact)
 * [Contributors](#contributors)
 * [Testing](#testing)
 * [Application](#application)
 * [License](#license)
-
-## Usage
  
 ## Mock-Up
 The following image shows the command-line application's appearance and functionality:
-![screenshot of application]()
-
-## Application
-
- 
+![screenshot of application](./screenshots/Find%20All%20Users.PNG)
 
 ## Contact
 * Name - Ricardo Scuotto
@@ -31,6 +24,9 @@ The following image shows the command-line application's appearance and function
 N/A
 ## Testing
 N/A
+
+## Demo
+<a href=https://drive.google.com/file/d/1lm66sOAANU8nur8vtcQsGY9OGfof69ql/view>Social Network API Demonstration</a>
 ## License
 
         Licensed under the MIT license
