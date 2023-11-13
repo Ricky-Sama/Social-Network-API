@@ -1,5 +1,5 @@
 const { Thought, User, Reaction } = require('../models');
-const {Types} = require('mongoose');
+const { Types } = require('mongoose');
 
 // Defined ThoughtController object to handle API requests
 const ThoughtController = {
